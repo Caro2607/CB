@@ -1,0 +1,67 @@
+
+
+<html>
+<head>
+<title> 
+Mira Escobar Carolina
+</title>
+</head>
+<body background="negro.jpg">
+<center>
+<h2><i><font color="RED">Basura cibernetica</h2></i></b></font><br><br>
+
+<h3><i><font color="white">En el mundo hay 4 mil millones de usuarios de internet, lo que provoca el incremento de la demanda en energía eléctrica y, por lo tanto, de CO2, según especialistas</h3></i></font><br>
+
+<p aling="center"> <img src="1.jpg" width="450" height="350">
+
+
+
+<h3><b><font color="SKY BLUE">Aunque no lo creas, esos correos spam o basura que acumulas y las cuentas en correos electrónicos y en redes sociales que fueron abiertas, pero no se utilizaron o que fueron abandonadas, también contaminan y forman parte de un problema en el medio ambiente.
+
+Paola Mercado Lozano, asesora del Sistema de Universidad Virtual (UDGVirtual), de la Universidad de Guadalajara (UdeG), explicó que internet contamina el medio ambiente debido a las cantidades de energía que consume y a las emisiones de dióxido de carbono (CO2) que propician los servidores de centros de datos de la red.
+
+En términos reales, enviar un correo electrónico de un megabyte con texto, imágenes y un documento adjunto equivale a aproximadamente 19 gramos de emisiones de dióxido de carbono emitidas al ambiente. Dicho cálculo, que realiza la Agencia para el Medio Ambiente y el Control de la Energía (ADEME, por sus siglas en francés), es en función del consumo de energía eléctrica que se requiere para el envío, tomando en cuenta los equipos del remitente y receptor, explicó la asesora de UDGVirtual.
+
+El problema es aún más grande en escala, pues según el Centro de Eficiencia Energética de Telecomunicaciones (CEET) de Australia, por medio de internet se emiten 830 millones de toneladas de dióxido de carbono cada año, y esta cifra podría duplicarse en el año 2020<br> </h3></font></b>
+
+
+<div><img src="apa.jpg" hspace="4" vspace="4" style="float:right;"/>
+
+<h4><p aling="left"><font color="gray">Los aparatos electrónicos como celulares, televisiones, laptops, tabletas, cámaras digitales, computadoras, reproductoras, equipo médico, juguetes, etcétera, contienen metales tóxicos y químicos. Cada año se generan en el mundo cerca de 50 millones de toneladas de basura electrónica o siete kilogramos por persona. Se espera en los próximos tres años un crecimiento de la basura electrónica de 35 por ciento, cuyo peso será equivalente al de las pirámides de Egipto. 
+
+Estados Unidos posee cerca de tres billones de productos electrónicos, los cuales pronto serán desechos tóxicos. No existen en el mundo plantas recicladoras suficientes para recuperar las sustancias tóxicas y metales contaminantes como cobre, oro, zinc, berilio, tantalio, plomo, cadmio, mercurio, litio y arsénico. Una vez tirados los materiales tóxicos al aire libre, la tierra, el aire, el agua y el ser humano se contaminan irremediablemente.
+
+Para proteger al medio ambiente, ningún producto electrónico ni baterías deben tirarse a la basura, sino buscar las opciones para su reciclamiento. El principio para no afectar gravemente el medio ambiente es reciclar todo lo que tenga un circuito o tablero electrónico. Además, utilizar los productos electrónicos el mayor tiempo posible.
+
+En México no existen formas limpias de recolección, almacenamiento y recuperación de basura electrónica a través de procesos de reciclamiento que no contaminen.
+
+Debido a la ineficiencia de los procesos de reciclamiento, muchos contaminantes como productos orgánicos persistentes y metales pesados emanan de la basura electrónica hacia el medio ambiente, en donde se acumulan penetrando en el cuerpo humano a través de la inhalación del aire contaminado </h4></P></font><br><br>
+
+
+<h2><p align="right"><font color="Orange">Posibles Soluciones</h2></P></font><br><br>
+
+<div><img src="lap.jpg" hspace="4" vspace="4" style="float:left;"/>
+
+<h3><p align="right"><font color="white">1.-Incorporar el consumo responsable<br>
+que incluya el reciclado de los equipos electrónicos.<br><br>
+2.-Reducir la generación de desechos electrónicos a través de la compra responsable<br> 
+y el buen mantenimiento.<br><br>
+3.-Donar o vender los equipos electrónicos que todavía funcionen.<br><br>
+4.-Donar equipos rotos o viejos a organizaciones que los reparan y reutilizan con fines sociales.<br><br>
+5.-Reciclar los componentes que no puedan repararse. Hay empresas que acopian y <br>
+reciclan estos aparatos sin costo para los dueños de los equipos en desuso.<br><br>
+6.-Promover la reducción de sustancias peligrosas que se usan en <br>
+ciertos productos electrónicos que se venden en cada país.<br><br><h3></p></font>
+
+<h1><font color="green"><marquee>¿Qué hacer con la basura tecnológica?</marquee></font>
+
+
+<p align="center"><a href="https://www.ecologiaverde.com/que-hacer-con-la-basura-tecnologica-1148.html"> <img src=" gala.jpg" width="450" heigth="300"
+<center>
+<h5>De click en el enlace de aqui arriba</h5>
+</center>
+<br>
+<br>
+</body>
+
+</html>
